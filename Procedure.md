@@ -13,3 +13,7 @@ Step 2:
 Step 3:
  - Download supporting files from http://www.slf4j.org/download.html
  - Unzip and paste them in the src/parser/ directory
+
+Step 4:
+ - Calcuate the dependency pairs using the parser and replace the tags of the respective tokens using tagger to get dependecny pairs of pos tags.
+ - These are the most important features used in this project
